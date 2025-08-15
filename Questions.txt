@@ -1,0 +1,4 @@
+What are the key trends in the sales data?
+Which products have the highest profit margins?
+Show me a correlation analysis between variables A and B
+who is the richest person in india?
